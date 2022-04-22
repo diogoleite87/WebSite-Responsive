@@ -10,17 +10,17 @@
 
 <h3 align="center">Pagina Inicial</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/iniciosite.png" width="50%"/>
+   <img alt="Readme" title="Readme" src="./img/iniciosite.png" width="70%"/>
 </h1>
 
 <h3 align="center">Pagina Contato</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/contatosite.png" width="50%"/>
+   <img alt="Readme" title="Readme" src="./img/contatosite.png" width="70%"/>
 </h1>
 
 <h3 align="center">Rodape do Site</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/rodapeinicialsite.png" width="50%"/>
+   <img alt="Readme" title="Readme" src="./img/rodapeinicialsite.png" width="70%"/>
 </h1>
 
 <h2>Esboço do Site no Celular</h2>
@@ -32,20 +32,20 @@
 
 <h3 align="center">Rodape no celular</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/rodapecelular.jpg" width="25%"/>
+   <img alt="Readme" title="Readme" src="./img/rodapecelular.jpg" width="30%"/>
 </h1>
 
 <h3 align="center">Pagina Contato no celular</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/contatocelular.jpg" width="25%"/>
+   <img alt="Readme" title="Readme" src="./img/contatocelular.jpg" width="30%"/>
 </h1>
 
 <h3 align="center">Menu de opções (Apenas no celular ou dispositivos com tela/janela do navegador reduzida)</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/menucelular.jpg" width="25%"/>
+   <img alt="Readme" title="Readme" src="./img/menucelular.jpg" width="30%"/>
 </h1>
 
 <h3 align="center">Funcionamento do menu de opções</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/gravacaodatelacelular.gif" width="25%"/>
+   <img alt="Readme" title="Readme" src="./img/gravacaodatelacelular.gif" width="30%"/>
 </h1>
